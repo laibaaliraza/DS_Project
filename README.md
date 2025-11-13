@@ -6,3 +6,7 @@ Uniboard Campus Bulliton system.This project will acts as a central notice board
 
 #Week 01 task
 This task contains user formation.
+->Add user
+->remove user
+->Search user
+->delete user
